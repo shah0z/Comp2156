@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://github.com/shah0z/Comp2156/static/css/main.27ca76a1.css",
+    "main.js": "/https://github.com/shah0z/Comp2156/static/js/main.09b1f5bd.js",
+    "static/js/453.f27d8bf6.chunk.js": "/https://github.com/shah0z/Comp2156/static/js/453.f27d8bf6.chunk.js",
+    "index.html": "/https://github.com/shah0z/Comp2156/index.html",
+    "main.27ca76a1.css.map": "/https://github.com/shah0z/Comp2156/static/css/main.27ca76a1.css.map",
+    "main.09b1f5bd.js.map": "/https://github.com/shah0z/Comp2156/static/js/main.09b1f5bd.js.map",
+    "453.f27d8bf6.chunk.js.map": "/https://github.com/shah0z/Comp2156/static/js/453.f27d8bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.09b1f5bd.js"
+  ]
+}
