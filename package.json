@@ -1,7 +1,7 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "",
+  "description": "COMP2156 Project by Shah Azwad Ahnaf, Student ID: 101497624",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
@@ -11,13 +11,13 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://shah0z.github.io/https://github.com/shah0z/Comp2156",
+  "homepage": "https://shah0z.github.io/Comp2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shah0z/Comp2156.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shah Azwad Ahnaf (Student ID: 101497624)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shah0z/Comp2156/issues"
